@@ -1,0 +1,5 @@
+dept_id,emp_id,emp_name,salary,dept_name
+100,1,Alice,60000,Engineering
+101,2,Bob,55000,Marketing
+100,3,Charlie,70000,Engineering
+101,5,Eve,65000,Marketing
